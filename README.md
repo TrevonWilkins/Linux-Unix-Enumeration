@@ -1,2 +1,2 @@
 # Linux-Unix-Enumeration
-Simple point in time enumeration for Linux and Solaris systems.
+Simple point in time enumeration survey script for Linux and Solaris systems.
