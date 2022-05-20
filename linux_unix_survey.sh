@@ -89,9 +89,9 @@ if [[ "$line" =~ $regex ]]; then
 		SunOS)
 			if(($#==0));
 			then
-			linux_survey
+			solaris_survey
 			else
-			linux_survey 1> $output_file 2> /dev/null
+			solaris_survey 1> $output_file 2> /dev/null
 			fi
 		;;
 		
